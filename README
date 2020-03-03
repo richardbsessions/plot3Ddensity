@@ -1,0 +1,4 @@
+Procedure for creating 3D density plots from a set of 3D points expressed as x y and z.
+The input data must consist of N lines of three space-separated real numbers. Currently limited
+to N=XXXX lines, but this can be raised by increasing the MAXLIN parameter in gridder.f and 
+recompiling.
